@@ -1,10 +1,10 @@
 # Hello, I'm Kathy San.
 
-I am a recent graduate with a passion for Cybersecurity and Technology. I have a profound interest in technology and a dedication to solving problems.
+I am a recent graduate with a passion for Cybersecurity and Technology. 
 
 # Objective
 
-My journey into Information Technology has continued to lead me to develop a passion for Cybersecurity. I am eager to transition into this field, specifically aiming to join a Security Operation Center (SOC) as a Tier 1 Analyst. 
+My journey into Information Technology has continued to lead me to develop a passion for solving problems and protecting data. 
 
 # Work Experience
 Trenton Systems | Desktop Support Analyst | June 2021 - June 2023
