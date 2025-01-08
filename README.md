@@ -1,6 +1,6 @@
 # Hello, I'm Kathy San.
 
-I am a recent graduate with a passion for Cybersecurity. I have a profound interest in technology and a dedication to solving problems.
+I am a recent graduate with a passion for Cybersecurity and Technology. I have a profound interest in technology and a dedication to solving problems.
 
 # Objective
 
